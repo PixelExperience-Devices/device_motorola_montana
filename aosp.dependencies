@@ -18,6 +18,7 @@
   {
     "remote": "pixel",
     "repository": "packages_resources_MotoActions",
-    "target_path": "packages/resources/MotoActions"
+    "target_path": "packages/resources/MotoActions",
+    "branch": "pie"
   }
 ]

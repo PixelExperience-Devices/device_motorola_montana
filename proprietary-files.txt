@@ -38,12 +38,10 @@ framework/com.qualcomm.qti.imscmservice@1.0-java.jar
 -framework/imscmlibrary.jar
 -framework/izat.xt.srv.jar
 -framework/qcrilhook.jar
--framework/QPerformance.jar
 -framework/QtiTelephonyServicelibrary.jar
 framework/qti-telephony-common.jar|b1953a3599255f08f1785c677d22810f65e0167b
 -framework/rcsimssettings.jar
 -framework/tcmclient.jar
--framework/UxPerformance.jar
 -framework/vendor.qti.hardware.sensorscalibrate-V1.0-java.jar
 -framework/WfdCommon.jar
 -vendor/framework/qti-vzw-ims-internal.jar

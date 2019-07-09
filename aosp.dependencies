@@ -6,9 +6,10 @@
     "branch": "master"
   },
   {
-    "repository":  "kernel_motorola_msm8937",
+    "remote": "github",
+    "repository":  "montanadevelopment/android_kernel_motorola_msm8937",
     "target_path": "kernel/motorola/msm8937",
-    "branch": "pie-montana"
+    "branch": "oreopie"
   },
   {
     "repository": "vendor_motorola_montana",

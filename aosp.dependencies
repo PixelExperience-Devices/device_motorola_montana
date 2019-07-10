@@ -19,5 +19,10 @@
     "remote": "pixel",
     "repository": "packages_resources_MotoActions",
     "target_path": "packages/resources/MotoActions"
+  },
+  {
+    "remote": "github",
+    "repository": "ThankYouMario/proprietary_vendor_qcom_sdclang-8.0_linux-x86",
+    "target_path": "vendor/qcom/sdclang-8.0/linux-x86"
   }
 ]
